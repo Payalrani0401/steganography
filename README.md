@@ -1,1 +1,1 @@
-# steganography
+# steganography This project hides secret messages inside images using the Least Significant Bit (LSB) technique. It changes tiny parts of the image data to store the message without changing how the image looks. Users can easily hide and later extract messages from images, keeping communication private and secure.
